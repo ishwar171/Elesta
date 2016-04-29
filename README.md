@@ -8,7 +8,9 @@ its a small template which has been done in boostrap
 ````
 include the Css folder in your index.html using this tag: <link rel="stylesheet" href="css/boostrap.min.css">
 
-Next include Jquery file in your index.html using tag: <script src="js/jquery.min.js">
+include the js folder in your index.html using this tag: <script src="js/bootstrap.min.js"></script>
+
+Next include Jquery file in your index.html using tag: <script src="js/jquery.min.js"></script>
 
 And also add your External file which u have wrote in your file and include that file also in index.html using above tag: <link rel="stylesheet" href=".......">
 
