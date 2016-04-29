@@ -1,0 +1,268 @@
+.moblie{
+	width: 17em;
+    height: 27em;
+    z-index: 1;
+    position: absolute;
+    bottom: -88px;
+    right: 192px;
+	
+}
+.download1{
+	
+        
+    color: #000;
+    position: absolute;
+    bottom: 219px;
+    color: #fff;
+    left:22%;
+}
+.downloadtext{
+	position: absolute;
+    bottom: 168px;
+    
+    font-size: 17px;
+    color: #fff;
+    left:22%;
+}
+.downloadbtn{
+	position: absolute;
+    bottom: 125px;
+    left: 23%;
+	padding: 4px 48px 7px 44px;
+	font-size: 17px;
+	outline:none;
+	border:none;
+	color: #FFF;
+	background-color:#5CB891;
+
+}
+.downloadbtn1{
+	position: absolute;
+    
+    
+	padding: 4px 48px 7px 44px;
+	font-size: 17px;
+	outline:none;
+	border:none;
+	color: #FFF;
+	background-color:#5CB891;
+
+}
+.downloadbtn:hover{
+	background-color:#5CB891;
+	color:#ffffff;
+}
+.welcomeelesta{
+	font-size:33px;
+	color: rgba(16, 15, 15, 0.74);
+}
+.welcomecontent{
+	font-size: 15px;
+	color:rgba(0, 0, 0, 0.64);
+}
+.gettheapp{
+	padding: 49px 0px 0px 120px;
+}
+.gettheappcontent{
+	font-size: 15px;
+	color:rgba(0, 0, 0, 0.64);
+}
+.gettheapphead{
+	font-size:33px;
+	color: rgba(0, 0, 0, 0.64);
+}
+.gettheappcolumn{
+	background: #F9F9F9 ;
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+.paperplane{
+	width:20em;
+	height:20em;
+}
+.johnsmith{
+	width: 11em;
+    height: 11em;
+}
+.colimage{
+	border-top:1px solid #ddd;
+	padding:41px;
+	border-bottom:1px solid #ddd;
+
+}
+.johnname{
+	font-size: 22px;
+    padding: 12px;
+}
+.coma{
+	font-size: 42px;
+}
+.johncontent{
+	font-size:17px;
+}
+.pricingplans{
+	font-size:27px;
+	color:rgba(0, 0, 0, 0.64);
+}
+.pricestags{
+	box-shadow: 0px 0px 0px 1px #ddd;
+	line-height: 34px;
+	padding-bottom:6%;
+	border-radius:0px;
+}
+.pricestags1{
+	background-color:#2F4F4F;
+	color:#ffffff;
+	border-radius:0px;
+
+}
+.pricestags2{
+	background-color:#5CB891;
+	color:#ffffff;
+	border-radius:0px;
+
+}
+.pricestags p{
+	border-bottom:1px solid #ddd;
+}
+
+.btnpurchase{
+	background-color:#5CB891;
+	color:#ffffff;
+	outline:none;
+	border:none;
+}
+.btnpurchase:hover{
+	background-color:#5CB891;
+	color:#ffffff;
+}
+.btnpurchase1{
+	background-color:#2F4F4F;
+	color:#ffffff;
+	outline:none;
+	border:none;
+}
+.btnpurchase1:hover{
+	background-color:#2F4F4F;
+	color:#ffffff;
+}
+.cricle{
+	    border-radius: 50%;
+    width: 107px;
+    height: 103px;
+    background-color: #5CB891;
+    color: #ffffff;
+    padding: 29px 0px 0px 0px;
+    position: absolute;
+    top: -20%;
+    left: 33%;
+    box-shadow: 0px 2px 5px 0px #000;
+    font-size: 42px;
+    padding-top: 4%;
+}
+.cricle1{
+	    border-radius: 50%;
+    width: 107px;
+    height: 103px;
+    background-color: #2F4F4F;
+    color: #ffffff;
+    padding: 29px 0px 0px 0px;
+    position: absolute;
+    top: -20%;
+    left: 33%;
+    box-shadow: 0px 2px 5px 0px #000;
+    font-size: 42px;
+    padding-top: 4%;
+}
+.subtag{
+	font-size: 15px;
+    position: absolute;
+    top: 61%;
+    right: 2%;
+}
+.contactus{
+	font-size:27px;
+	color:rgba(0, 0, 0, 0.64);
+}
+.btnsend{
+	background-color:#5CB891;
+	color:#ffffff;
+	outline:none;
+	border:none;
+	padding-left: 5%;
+    padding-right: 5%;
+    font-size: 15px;
+}
+
+.btnsend:hover{
+	background-color:#5CB891;
+	color:#ffffff;
+}
+.formcontent{
+	color: #555;
+    background-color: #ccc;
+}
+.logo {
+    z-index: 1;
+    position: absolute;
+    left: 56%;
+    width: 9em;
+    height: 9em;
+}
+.footername{
+	font-size: 47px;
+    font-family: inherit;
+    color: #fff;
+    padding-left: 5%;
+}
+.footernamecopy{
+	font-size: 5.8pt;
+    padding-left: 19%;
+    font-family: inherit;
+    color: #ccc;
+}
+.footerbar{
+	background-color: #2F4F4F;
+	color:#ffffff;
+	border-radius: 0px;
+}
+.iconsbtn{
+	background-color: #ffffff;
+    border-radius: 50%;
+    width: 41px;
+    height: 44px;
+   margin: 5px 3px auto;
+}
+.iconsbtn ul li {
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    background-image: url(../img/iconsimg.png);
+    background-repeat: no-repeat;
+    background-position: 0 100px;
+    display: inline-block;
+    margin: -1px 1px 5px 0;
+    padding: 0;
+    border-radius: 100%;
+    overflow: visible;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.3);
+}
+
+.footerbrand{
+	font-size: 36pt;
+	color:#fff;
+	    padding-left: 27%;
+	    font-family:inherit;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color:#000;
+}
+.navbar-default .navbar-brand:hover {
+    color: #fff;
+    background-color: transparent;
+}
+.colfooter{
+	padding-left: 0px;
+    padding-right: 0px;
+}
