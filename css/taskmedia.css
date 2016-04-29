@@ -1,0 +1,96 @@
+@media screen and (max-width:375px){
+	.moblie{
+		width: 6em;
+    height: 9em;
+    z-index: 1;
+    position: absolute;
+    top: -112px;
+    right: 3px;
+
+	}
+	.download1{
+	position: absolute;
+    bottom: 64px;
+    color: #fff;
+    font-size: 16px;
+    left: 4%;
+	}
+	.downloadtext{
+	position: absolute;
+    top: -71px;
+    /* padding: 10px 0px 0px 112px; */
+    font-size: 9px;
+    color: #fff;
+    left: 14px;
+    width: 69%;
+	}
+	.downloadbtn{
+	position: absolute;
+    bottom: 14px;
+    left: 5%;
+        padding: 4px 17px 2px 12px;
+    font-size: 10px;
+    outline: none;
+    border: none;
+    color: #FFF;
+    background-color: #5CB891;
+	}
+	.downloadbtn1{
+	position: absolute;
+    bottom: -34px;
+    left: 8%;
+    font-size: 10px;
+    outline: none;
+    border: none;
+    color: #FFF;
+    background-color: #5CB891;
+	}
+	.welcomeelsta{
+		margin-top:-18%;
+	}
+	.welcomeelesta{
+		font-size: 20px;
+    color: rgba(16, 15, 15, 0.74);
+	}
+	.welcomecontent {
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.64);
+    }
+    .gettheapp {
+    padding: 0px 1px 0px 22px;
+	}
+	.gettheappcontent {
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.64);
+	}
+	.gettheapphead {
+    font-size: 27px;
+    color: rgba(0, 0, 0, 0.64);
+	}
+	video#vediobtn {
+    width: 282px;
+    /* height: 200px; */
+	}
+	.mediacol{
+		margin-top:28%;
+	}
+	.colform{
+		margin-top:4%;
+	}
+	.johncontent {
+    font-size: 15px;
+	}
+	.logo {
+    z-index: 1;
+    position: absolute;
+    left: 5%;
+    width: 2em;
+    height: 2em;
+	}
+	.footerbrand {
+    font-size: 36pt;
+    color: #fff;
+    padding-left: 3%;
+    font-family: inherit;
+	}
+}
